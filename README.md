@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gunavenkat
+- 👋 Hi, I’m @venkata-vazrala
 - 👀 I’m interested in Embedded Systems, Arduino, Python, Backend programming and C.
 - 🌱 I’m currently learning Programming stuff
 - 💞️ I’m looking to collaborate on The above interested people
