@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Venkata
 
-### Backend Engineer | Framework Builder | Automation Enthusiast
+### Software Engineer | Embedded, Validation & Automation | Framework Builder
 
-I'm a software engineer who gets genuinely excited about building things that make other developers' lives easier. Whether it's crafting automation frameworks that cut release cycles by 95%, or architecting backend systems that just _work_ — I love solving problems with clean, scalable code.
+I'm a software engineer who gets excited about building things that make other engineers' lives easier — automation frameworks that cut release cycles by 95%, post-silicon validation systems that turn 3-day test runs into 5 hours, and backend systems that just _work_.
 
-Currently pursuing my **MSc in Electronic and Computer Technology (IoT)** at Dublin City University 🇮🇪, diving deeper into the intersection of software and hardware.
+Currently pursuing my **MSc in Electronic and Computer Technology (IoT)** at Dublin City University 🇮🇪, researching **energy-aware federated TinyML on embedded edge devices**.
 
 ---
 
@@ -16,10 +16,11 @@ class Venkata:
         self.code = ["Python", "C", "C++", "Rust"]
         self.backend = ["Django", "Flask", "REST APIs"]
         self.devops = ["Linux", "Docker", "Jenkins", "CI/CD"]
-        self.validation = ["TestStand", "LabVIEW", "Robot Framework"]
+        self.validation = ["TestStand", "LabVIEW", "NI PXI", "Robot Framework"]
+        self.embedded = ["Arduino", "ESP32", "Raspberry Pi", "nRF24", "GSM"]
 
     def current_focus(self):
-        return "Building scalable frameworks & exploring IoT"
+        return "Federated TinyML on edge devices & embedded systems"
 ```
 
 ---
@@ -49,12 +50,23 @@ class Venkata:
 
 ---
 
+## 📂 Featured Work
+
+- 🔬 [**Energy-Aware Federated TinyML**](https://github.com/venkata-vazrala/EEN1095-A00048464-EA-FedTinyML) — MSc research: federated learning on ESP32 / Raspberry Pi 4 / Arduino Nano 33 BLE with Docker + Flower _(public from Aug 2026)_
+- 🔌 [**Hardware & Embedded Projects**](https://github.com/venkata-vazrala/hardware-embedded-projects) — 1.5 km nRF24 mesh communicator, GSM emergency alert device, regenerative braking system & more
+- 🏆 [**Hackathons & Competitions**](https://github.com/venkata-vazrala/hackathon-competitions) — IBM Hack Challenge 2020 & 2021 (Level-2 shortlisted), Smart India Hackathon
+- 🎓 [**Academic Projects**](https://github.com/venkata-vazrala/academic-projects) — deep-learning eye-disease classification (MATLAB) & more
+- 💻 [**Coding Practice**](https://github.com/venkata-vazrala/coding-practice) — Python, C++, Rust
+- 🌐 [**Portfolio site**](https://venkata-vazrala.github.io)
+
+---
+
 ## 🌱 Currently Exploring
 
-- 🦀 Getting my hands dirty with **Rust**
-- 🌐 Deep diving into **IoT architectures** and edge computing
+- 🧠 **Federated learning & TinyML** on resource-constrained edge hardware
+- ⚙️ **Embedded fundamentals in depth** — C internals, RTOS, UART/SPI/I2C
+- 🌐 **IoT architectures** and edge computing
 - 🤖 Automation patterns that scale across teams
-- 📊 Building better observability into frameworks
 
 ---
 
@@ -70,7 +82,7 @@ When I'm not coding, you'll find me volunteering with **Dublin City Volunteers**
 
 I'm always up for a chat about backend development, automation frameworks, or anything tech. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-gunasekhar-v-8a1049193)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-vazrala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatagunasekharv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkata-vazrala)
 
