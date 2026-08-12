@@ -52,7 +52,7 @@ class Venkata:
 
 ## 📂 Featured Work
 
-- 🔬 [**Energy-Aware Federated TinyML**](https://github.com/venkata-vazrala/EEN1095-A00048464-EA-FedTinyML) — MSc research: federated learning on ESP32 / Raspberry Pi 4 / Arduino Nano 33 BLE with Docker + Flower _(public from Aug 2026)_
+- 🔬 [**Energy-Aware Federated TinyML**](https://github.com/venkata-vazrala/EEN1095-A00048464-EA-FedTinyML) — MSc research: federated learning on Raspberry Pi 4 / Arduino Nano 33 BLE with Docker + Flower _(public from Aug 2026)_
 - 🔌 [**Hardware & Embedded Projects**](https://github.com/venkata-vazrala/hardware-embedded-projects) — 1.5 km nRF24 mesh communicator, GSM emergency alert device, regenerative braking system & more
 - 🏆 [**Hackathons & Competitions**](https://github.com/venkata-vazrala/hackathon-competitions) — IBM Hack Challenge 2020 & 2021 (Level-2 shortlisted), Smart India Hackathon
 - 🎓 [**Academic Projects**](https://github.com/venkata-vazrala/academic-projects) — deep-learning eye-disease classification (MATLAB) & more
